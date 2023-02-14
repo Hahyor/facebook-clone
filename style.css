@@ -87,15 +87,16 @@ form{
     align-items: center;
 }
 
-.pass{
-    margin: auto;
-    border: 3px;
+.Pass{
+    text-align: center;
     align-items: center;
-    display: flex;
-    padding: 10px;
 }
 
 form{
     margin-top: 60px;
 
+}
+
+.para{
+    text-align: center;
 }
